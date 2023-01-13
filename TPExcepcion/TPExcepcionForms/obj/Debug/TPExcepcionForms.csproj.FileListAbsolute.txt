@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\bin\Debug\TPExcepcionForms.exe.config
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\bin\Debug\TPExcepcionForms.exe
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\bin\Debug\TPExcepcionForms.pdb
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\bin\Debug\TPExcepcion.dll
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\bin\Debug\TPExcepcion.pdb
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.Form1.resources
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.exe
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcionForms\obj\Debug\TPExcepcionForms.pdb

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\bin\Debug\TPExcepcion.dll
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\bin\Debug\TPExcepcion.pdb
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\obj\Debug\TPExcepcion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\obj\Debug\TPExcepcion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\obj\Debug\TPExcepcion.dll
+C:\Users\Usuario\source\repos\TPExcepcion\TPExcepcion\obj\Debug\TPExcepcion.pdb
